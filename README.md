@@ -50,7 +50,7 @@ Feel free to connect with me on LinkedIn to discuss opportunities, collaboration
   <img src="https://img.shields.io/badge/UART-000000?logoColor=white" alt="UART"/>
   <img src="https://img.shields.io/badge/SPI-000000?logoColor=white" alt="SPI"/>
   <img src="https://img.shields.io/badge/I2C-000000?logoColor=white" alt="I2C"/>
-  <img src="https://img.shields.io/badge/I2C-000000?logoColor=white" alt="CAN"/>
+  <img src="https://img.shields.io/badge/CAN-000000?logoColor=white" alt="CAN"/>
   <!-- Tools -->
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code"/>
