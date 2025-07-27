@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ougo.png" alt="Header" height="180"/>
+  <img src="ougogithub.png" alt="Header" height="180"/>
 </p>
 
 <h1 align="center">🧑🏻‍💻 Oussama Gobji</h1>
