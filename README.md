@@ -2,7 +2,7 @@
   <img src="ougogithub.png" alt="Header" height="180"/>
 </p>
 
-<h1 align="center">🧑🏻‍💻 Oussama Gobji</h1>
+<h1 align="center">🧑🏻‍💻 Oussama Gobji 🚗✈️</h1>
 <h3 align="center">M2 Automotive & Aeronautical Engineering Student | Embedded Systems, IoT & Software Development</h3>
 
 ---
