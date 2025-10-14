@@ -22,6 +22,7 @@ I am also an IEEE member and co-founder of the ISETN Community, where I contribu
 Feel free to connect with me on LinkedIn to discuss opportunities, collaborations, or technical projects.
 
 ---
+<p align="center"> <a href="https://www.linkedin.com/in/oussamagobji"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
 
 ## 💡 Skills & Tools
 
