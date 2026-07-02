@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🧑🏻‍💻 Oussama Gobji 🚗✈️</h1>
-<h3 align="center">Embedded Software & Validation Engineer | Automotive & Aeronautical Embedded Systems | AUTOSAR • Embedded C • STM32</h3>
+<h3 align="center">Automotive & Aeronautical Embedded Systems Engineer</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 
 I hold a Bachelor's degree in Computer Systems Engineering and a Professional Master's degree in Automotive & Aeronautical Engineering (ENET'COM, University of Sfax), specializing in Embedded Systems, IoT, and software development, with expertise in AUTOSAR Classic, Embedded C/C++, Python, and STM32.
 
-During my End-of-Study Project at **Capgemini Engineering**, I designed, implemented and validated a complete **AUTOSAR Classic** vehicle access ECU on an **STM32H7** microcontroller — covering keyless entry, central locking, anti-theft alarm and UDS diagnostics — verified through an automated **Software-in-the-Loop (SIL)** test campaign with CI/CD.
+During my End-of-Study Project at **Capgemini Engineering**, I designed, implemented and validated a complete **AUTOSAR Classic** vehicle access ECU on an **STM32H7** microcontroller covering keyless entry, central locking, anti-theft alarm and UDS diagnostics verified through an automated **Software-in-the-Loop (SIL)** test campaign with CI/CD.
 
 My focus is on building reliable, standards-compliant embedded software that bridges hardware and software. My ability to quickly master new technologies and adapt to fast-evolving industrial environments drives my passion for innovation in automotive, aeronautical, and tech-driven industries.
 
