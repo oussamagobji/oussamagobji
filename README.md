@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🧑🏻‍💻 Oussama Gobji 🚗✈️</h1>
-<h3 align="center">Automotive & Aeronautical Engineer | Quality, V-Model & A-SPICE | AUTOSAR & Industrial Supervision</h3>
+<h3 align="center">Automotive & Aeronautical Engineer</h3>
 
 ---
 
